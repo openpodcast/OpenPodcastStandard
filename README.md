@@ -12,7 +12,7 @@ This extensions provides a simple thumbs up/down vote mechanism to listeners aim
 
 Proposal:
 
-```
+```xml
 <ops:feedback>
   <ops:thumbsfeedback>
     <ops:up-endpoint>https://someurl</ops:up-endpoint>
